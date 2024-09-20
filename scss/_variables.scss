@@ -213,7 +213,7 @@ $dropdown-menu-notch-position-x: 24px;
 $dropdown-menu-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.1);
 
 //Navigation
-$navbar-bg-color: $primary !default;
+$navbar-bg-color: $red !default;
 $navigation-bg-color: $white !default;
 $navigation-bg-color-desktop: $primary !default;
 
@@ -240,7 +240,7 @@ $navigation-disabled-item-mobile-opacity: 0.6 !default;
 $navigation-hamburger-size: 24px;
 
 // navigation dark theme (mobile)
-$navigation-dark-bg-color: $primary !default; // missing in UI kit
+$navigation-dark-bg-color: $red !default; // missing in UI kit
 $navigation-dark-text-color: $white !default; // missing in UI kit
 $navigation-dark-bg-color: $primary-b1 !default; // missing in UI kit
 $navigation-dark-separator-color: $primary-c5 !default; // missing in UI kit
@@ -381,7 +381,7 @@ $modal-popconfirm-max-width: 300px;
 // Header Slim
 $header-general-padding: $v-gap * 3;
 $header-slim-height: 48px;
-$header-slim-bg-color: $primary-a7 !default;
+$header-slim-bg-color: $red !default;
 $header-slim-text-color: $white !default;
 $header-slim-button-color: $primary-a9 !default;
 $header-slim-button-hover-color: $primary-a8 !default;
@@ -397,13 +397,13 @@ $header-slim-lang-v-padding: 12px;
 $header-slim-h-padding: 18px;
 $header-slim-v-padding-mob: 6.5px;
 // Header Slim theme light
-$header-slim-theme-light-bg-color: $white !default;
+$header-slim-theme-light-bg-color: $red !default;
 $header-slim-theme-light-text-color: $primary !default;
 $header-slim-theme-light-button-color: $primary !default;
 $header-slim-theme-light-button-hover-color: $primary !default;
 
 // Header Center
-$header-center-bg-color: $primary !default;
+$header-center-bg-color: $red !default;
 $header-center-text-color: $white !default;
 $header-center-max-height: 120px;
 $header-center-max-height-mob: 80px;
@@ -432,7 +432,7 @@ $header-center-small-mob-height: 64px;
 $header-center-small-h2-size: 1.25rem;
 $header-center-small-h3-size: 0.75rem;
 // Header Center theme light
-$header-center-theme-light-bg-color: $white !default;
+$header-center-theme-light-bg-color: $red !default;
 $header-center-theme-light-text-color: $primary !default;
 
 // Anchors vertical offset:
@@ -515,7 +515,7 @@ $dp-grid-size: 0.75rem;
 $dp-current-size: $v-gap * 4;
 
 //hero
-$hero-bg-color: $primary !default;
+$hero-bg-color: $red !default;
 $hero-height-desk: 620px;
 $hero-height-mob: 380px;
 $hero-height-sm-desk: 400px;
